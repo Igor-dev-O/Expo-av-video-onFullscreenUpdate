@@ -4,7 +4,7 @@ Full screen video screen orientation
 ## Versions
 SDK: 39.0.4
 
-Expo-av: 8.7.0
+Expo-av: 8.6.0
 
 ScreenOrientation: 2.0.0
 
